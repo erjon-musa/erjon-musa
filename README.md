@@ -110,15 +110,6 @@ Interactive **Android game** built with Java. Features dynamic image handling an
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=erjon-musa&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erjon-musa&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
-</p>
-
----
-
 ## 🤝 Let's Connect!
 
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
