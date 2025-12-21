@@ -102,11 +102,11 @@ Interactive **Android game** built with Java. Features dynamic image handling an
 - Led cross-functional team of 3, delivering the TRAC Portal
 - Developed accessible, ODS-compliant web applications
 
-**🧠 MyEyes AI Glasses – Developer & Designer**  
-*Queen's University | Sept 2025 – Present*
-- Led AI system validation for wearable smart-glass assistive technology
-- Implemented real-time object detection (~90% accuracy) & OCR (≤10% CER)
-- 3D-printed ergonomic prototypes in SolidWorks
+**🧠 Merlin Neurotech HyperScanning**  
+*Queen's University | Sept 2023 – Apr 2024*
+- Acquired & processed multi-user brain activity data using Unicorn EEG system
+- Developed Python scripts to automate and synchronize data collection
+- Analyzed neural patterns (Alpha, Beta, Theta waves) using NumPy, Pandas & Matplotlib
 
 ---
 
