@@ -123,3 +123,5 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=erjon-musa&color=58a6ff&style=flat-square" alt="Profile Views"/>
 </p>
+
+<!-- Profile README for erjon-musa -->
