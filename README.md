@@ -27,12 +27,16 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+### Web & Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 ### AI & Machine Learning
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
@@ -54,12 +58,31 @@
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
 <table>
+<tr>
+<td width="50%">
+
+### 🌐 [Personal Portfolio v2](https://github.com/erjon-musa/portfolio-v2)
+Modern, highly responsive **personal portfolio** featuring a dark-mode glassmorphism aesthetic and interactive case studies.
+
+`Next.js` `TypeScript` `Tailwind CSS` `Framer Motion`
+
+</td>
+<td width="50%">
+
+### 👁️ MyEyes AI Glasses
+Real-time assistive vision system using ESP32-S3 and Android. Features on-device YOLOv8n inference and OCR.
+
+`C++` `Android` `TensorFlow Lite` `YOLOv8`
+
+</td>
+</tr>
 <tr>
 <td width="50%">
 
@@ -75,24 +98,6 @@ Deep learning for **pet nose localization** using CNNs (SnoutNet, AlexNet, VGG16
 Fine-tuned **CLIP** vision-language model with ResNet50 on MS COCO 2014. Explored contrastive learning for image-text understanding.
 
 `Python` `PyTorch` `CLIP` `Deep Learning`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🎨 [Semantic Segmentation](https://github.com/erjon-musa/semantic-segmentation-knowledge-distillation)
-**MobileNetV3-ASPP** with knowledge distillation on PASCAL VOC 2012. Efficient segmentation using lightweight architectures.
-
-`Python` `PyTorch` `Segmentation` `Knowledge Distillation`
-
-</td>
-<td width="50%">
-
-### 🎮 [GuessMaster](https://github.com/erjon-musa/Guessmaster)
-Interactive **Android game** built with Java. Features dynamic image handling and engaging user experience.
-
-`Java` `Android` `Mobile Development`
 
 </td>
 </tr>
