@@ -109,9 +109,17 @@ Fine-tuned **CLIP** vision-language model with ResNet50 on MS COCO 2014. Explore
 
 <table>
 <tr>
-<td width="100%">
+<td width="50%">
 
-### 🧪 [Habit Tracker — Multi-Agent Workflow Sandbox](https://github.com/erjon-musa/habit-tracker)
+### 📚 [Local RAG Study Notes System](https://github.com/erjon-musa/RAG_System)
+A fully local, offline **Retrieval-Augmented Generation (RAG)** system built for university exam prep. Crafted entirely from scratch (no LangChain) with hybrid search (ChromaDB + BM25), streaming responses via Ollama/Gemma4, smart document chunking, and a full Next.js UI.
+
+`Python` `FastAPI` `Next.js 16` `ChromaDB` `Ollama` `Gemma4`
+
+</td>
+<td width="50%">
+
+### 🧪 [Habit Tracker — Multi-Agent Sandbox](https://github.com/erjon-musa/habit-tracker)
 A fully functional daily habit tracker that doubles as my **testing ground for multi-agent AI workflows** within Claude Code. I'm exploring agent teams, custom hooks & commands, AGENTS.md conventions, and iterative multi-pass development — using a real, stateful app as the testbed.
 
 `Next.js 16` `TypeScript` `Prisma` `Claude Code` `AI Agents`
