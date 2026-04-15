@@ -111,7 +111,7 @@ Fine-tuned **CLIP** vision-language model with ResNet50 on MS COCO 2014. Explore
 <tr>
 <td width="50%">
 
-### 📚 [Local RAG Study Notes System](https://github.com/erjon-musa/RAG_System)
+### 📚 [Local RAG Study Notes System](https://github.com/erjon-musa/local-study-rag)
 A fully local, offline **Retrieval-Augmented Generation (RAG)** system built for university exam prep. Crafted entirely from scratch (no LangChain) with hybrid search (ChromaDB + BM25), heavy inference offloaded over local network via LM Studio/Gemma4 to save Mac RAM, smart document chunking, and a full Next.js UI.
 
 `Python` `FastAPI` `Next.js 16` `ChromaDB` `LM Studio` `Gemma4 26B`
