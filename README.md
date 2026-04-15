@@ -76,7 +76,7 @@ Modern, highly responsive **personal portfolio** featuring a dark-mode glassmorp
 </td>
 <td width="50%">
 
-### 👁️ MyEyes AI Glasses
+### 👁️ [MyEyes AI Glasses](https://github.com/erjon-musa/myeyes)
 Real-time assistive vision system using ESP32-S3 and Android. Features on-device YOLOv8n inference and OCR.
 
 `C++` `Android` `TensorFlow Lite` `YOLOv8`
