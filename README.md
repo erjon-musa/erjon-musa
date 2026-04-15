@@ -105,6 +105,23 @@ Fine-tuned **CLIP** vision-language model with ResNet50 on MS COCO 2014. Explore
 
 ---
 
+## 🔬 What I'm Working On
+
+<table>
+<tr>
+<td width="100%">
+
+### 🧪 [Habit Tracker — Multi-Agent Workflow Sandbox](https://github.com/erjon-musa/habit-tracker)
+A fully functional daily habit tracker that doubles as my **testing ground for multi-agent AI workflows** within Claude Code. I'm exploring agent teams, custom hooks & commands, AGENTS.md conventions, and iterative multi-pass development — using a real, stateful app as the testbed.
+
+`Next.js 16` `TypeScript` `Prisma` `Claude Code` `AI Agents`
+
+</td>
+</tr>
+</table>
+
+---
+
 ## 💼 Experience Highlights
 
 **🏛️ UX/UI Design Team Lead - Frontend Developer**  
