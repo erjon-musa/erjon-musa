@@ -20,6 +20,8 @@
 
 ---
 
+<div align="center">
+
 ## 🛠️ Tech Stack
 
 ### Languages
@@ -59,6 +61,8 @@
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+
+</div>
 
 ---
 
